@@ -1,0 +1,17 @@
+.btn-yours {
+  background-image: url("../../images/gold.png");
+  padding: 80px 85px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  color: white;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 30px;
+  position: absolute;
+  bottom: 60px;
+  left: 50px;
+}
+
+.btn-yours:hover {
+  background-image: url("../../images/shark.png");
+  background-size: contain;
+}

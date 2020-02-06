@@ -1,0 +1,6 @@
+.banner {
+  background-color: black;
+  background-image: url("../../images/salmonbackground.png");
+  height: 580px;
+  position: relative;
+}
